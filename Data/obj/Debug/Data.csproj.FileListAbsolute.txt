@@ -1,0 +1,6 @@
+C:\Users\66109\source\repos\Proway\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\66109\source\repos\Proway\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\66109\source\repos\Proway\Data\bin\Debug\Data.dll
+C:\Users\66109\source\repos\Proway\Data\bin\Debug\Data.pdb
+C:\Users\66109\source\repos\Proway\Data\obj\Debug\Data.dll
+C:\Users\66109\source\repos\Proway\Data\obj\Debug\Data.pdb
