@@ -1,0 +1,7 @@
+c:\users\66109\source\repos\Proway\Aula 1\obj\Debug\Aula 1.csprojAssemblyReference.cache
+c:\users\66109\source\repos\Proway\Aula 1\obj\Debug\Aula 1.csproj.CoreCompileInputs.cache
+c:\users\66109\source\repos\Proway\Aula 1\bin\Debug\Aula 1.exe.config
+c:\users\66109\source\repos\Proway\Aula 1\bin\Debug\Aula 1.exe
+c:\users\66109\source\repos\Proway\Aula 1\bin\Debug\Aula 1.pdb
+c:\users\66109\source\repos\Proway\Aula 1\obj\Debug\Aula 1.exe
+c:\users\66109\source\repos\Proway\Aula 1\obj\Debug\Aula 1.pdb
